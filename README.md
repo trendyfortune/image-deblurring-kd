@@ -90,6 +90,19 @@ Output images are stored in "results/"
 
 ## Performance  
 
+StudentNet FPS range : 55-65 fps    
+(Processes 1920x1080 images)  
+<br>  
+
+| <img width='100%' alt="Blurred" src="https://github.com/user-attachments/assets/861eeb8b-9719-4b04-8fdc-944870851207" /> |<img width="95%" alt="Student_op" src="https://github.com/user-attachments/assets/e799aba0-88c7-4634-99b2-779819b8c66e" /> | 
+| :--: | :--: | 
+| <img width='99%' alt="Blurred_zoomed" src="https://github.com/user-attachments/assets/463dd50c-5ae9-4a77-8916-da2677bb1201" /> | <img width='95%' alt="Student_op_zoomed" src="https://github.com/user-attachments/assets/819c28be-4469-40dd-bf00-47ae8c96b7fe" /> | 
+| Blurred | StudentNet Output | 
+
+<br>
+
+---
+
 |   Method    | MIMO-UNet | StudentNet | 
 | :---------: | :-------: | :--------: | 
 |  PSNR (dB)  |   34.78   |   32.00    | 
